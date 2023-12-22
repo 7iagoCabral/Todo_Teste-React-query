@@ -1,0 +1,29 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "title": "Estudar react-query",
+      "done": true
+    },
+    {
+      "id": 1702852256276,
+      "title": "Criar um foguete",
+      "done": false
+    },
+    {
+      "id": 1702852263606,
+      "title": "Viajar para marte",
+      "done": false
+    },
+    {
+      "id": 1702852275083,
+      "title": "Lançar um satélite ",
+      "done": false
+    },
+    {
+      "id": 1702852294159,
+      "title": "Encontrar vidas fora da Terra",
+      "done": false
+    }
+  ]
+}
